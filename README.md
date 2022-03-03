@@ -12,3 +12,5 @@ Un cop s'hagi fet la instalacio "basica" del Linux Mind i s'iniciï correctament
 Hi fem doble click:
 ![Doble click al disc](https://github.com/JordaSegu/M1/blob/main/Instalacio%20Linux%20Mint/Captura%20de%202022-01-28%2017-02-04.png)
 
+Seleccionem un idioma d'instalació:
+![Seleccio idioma](https://github.com/JordaSegu/M1/blob/main/Instalacio%20Linux%20Mint/Captura%20de%202022-01-28%2017-02-29.png)
