@@ -11,7 +11,7 @@ Li diem cuanta memoria RAM pot agafar la màquina (en MB):
 Escollim o creem un disc dur virtual per la màquina en si:
 ![Espai disc dur virtual](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-18-47.png)
 
-Triem un format per el disc dur virtual:
+Triem un format (virtualment) per el disc dur virtual:
 ![Format disc dur virtual](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-19-12.png)
 
 Escollim el format del disc dur virtual entre dinàmic o fix:
