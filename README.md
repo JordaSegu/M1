@@ -31,36 +31,36 @@ Descarguem la ISO de Windows amb la màquina virtual i seleccionem les opcions d
 ¡[Inici instal·lació Windows 1](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-38-50.png)
 
 Instalem Windows:
-¡[Inici instal·lació Windows 2](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-39-02.png)
+![Inici instal·lació Windows 2](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-39-02.png)
 
 Introduim la clau Windows (opcional):
-¡[Clau instal·lació Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-39-22.png)
+![Clau instal·lació Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-39-22.png)
 
 Seleccionem el tipus de SO de Windows a instalar:
-¡[Tipus SO Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-39-36.png)
+![Tipus SO Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-39-36.png)
 
 Aceptem el contracte de llicencia de Windows:
-¡[Aceptació llicencia Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-40-00.png)
+![Aceptació llicencia Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-40-00.png)
 
 Escollim el tipus d'instalació de Windows:
-¡[Tipus instal·lació Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-40-42.png)
+![Tipus instal·lació Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-40-42.png)
 
 Escollim el disc dur virtual:
-¡[Disc dur virtual Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-40-57.png)
+![Disc dur virtual Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-40-57.png)
 
 Esperem a que s'instali:
-¡[Espera instal·lació Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-41-09.png)
+![Espera instal·lació Windows](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-41-09.png)
 
 ### Partició de disc (Windows)
 
 Anem a l'administrador de discos de Windows (dintre de l'administrador de dispositius):
-¡[Admin discos 1](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2016-45-52.png)
+![Admin discos 1](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2016-45-52.png)
 
 Li donem al botó dret del ratolí i reduïm el volum per fer la partició on hi posarem el Linux:
-¡[Admin discos 2](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2016-50-03.png)
+![Admin discos 2](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2016-50-03.png)
 
 Ja hem fet la partició, i ara instalarem el Linux:
-¡[Admin discos 3](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2016-51-30.png)
+![Admin discos 3](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2016-51-30.png)
 
 ### Instalació de Linux Mint 20.3 Cinnamon (Edge) Edition
 
