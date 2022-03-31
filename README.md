@@ -14,10 +14,10 @@ Escollim o creem un disc dur virtual per la màquina en si:
 Triem un format per el disc dur virtual:
 ![Format disc dur virtual](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-19-12.png)
 
-Escollim entre dinàmic o fix:
+Escollim el format del disc dur virtual entre dinàmic o fix:
 ![Emmagatzematge disc virtual](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-19-26.png)
 
-Arrelem la ubicació del disc dur i el que ocuparà:
+Arrelem la ubicació del disc dur virtual i el que ocuparà:
 ![Ubicació mida del disc virtual](https://github.com/JordaSegu/M1/blob/main/Instalacio%20dual%20Linux%20Windows/Captura%20de%202022-02-03%2015-19-38.png)
 
 Un cop creada la màquina virtual sempre es pot modificar:
