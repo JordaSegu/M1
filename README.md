@@ -146,6 +146,20 @@ Li posem el nom corresponent a l'usuari, contrasenya i confirmem la creacio del 
 I l'interior de la carpeta hauria de quedar aixi, de moment:
 ![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2018-50-50.png)
 
+Li fem click dret al usuari i anem a "propiedades":
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2019-01-53.png)
+
+Anem a la pestanya "cuenta" i li fem click al botó de "horas de inicio de sesión":
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2019-05-17.png)
+
+Ajustem el horari segons convingui en cada usuari:
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2019-06-59.png)
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2019-08-14.png)
+
+Copiem el usuari 6 vegades am un torn i 6 vegades en l'altre, i hauria de quedar aixi:
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2019-17-10.png)
+
+
 
 ###  Creem un departament de logística on hi han 4 equips i 12 usuaris, en tres torns: primer torn a les 8:00 hores, segon torn a les 12:00 hores i tercer torn a les 16:00 hores.
 
