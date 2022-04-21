@@ -113,3 +113,27 @@ El propi SO t'informa de les eines de documentacio i ajuda:
 
 I, finalment, et convida si vols contribuir a millorar el SO:
 ![Contribuir Linux Mint](https://github.com/JordaSegu/M1/blob/main/Instalacio%20Linux%20Mint/Captura%20de%202022-01-28%2017-36-49.png)
+
+## Crear unitats organitzatives (UO) en un domini Windows Server 2016
+
+### Creem una UO per els usuaris i grups de l'empresa.
+
+###  Creem un departament de comptabilitat on hi han 6 equips i 12 usuaris en dos torns: un torn a les 6:00 hores i l’altre torn a les 18:00 hores.
+
+###  Creem un departament de logística on hi han 4 equips i 12 usuaris, en tres torns: primer torn a les 8:00 hores, segon torn a les 12:00 hores i tercer torn a les 16:00 hores.
+
+### Creem un departament de manteniment on hi han 3 màquines i 4 usuaris, i no tenen torn.
+
+### Creem un departament de direcció on hi han 2 equips tipus servidor, i 2 usuaris.
+
+### Creem un departament de producció on hi han 8 màquines i 24 usuaris en tres torns: a les 6:00 hores, a les 14:00 hores i a les 22:00 hores.
+
+### Creem una plantilla per realitzar els usuaris de cada departament.
+
+### Per un reestructuració interna, el departament de producció desapareix, la producció es portada a la Xina. Caldrà esborrar el grup i fer desaparèixer tots els usuaris.
+
+### Hi ha 3 usuaris del departament de logística que cada 30 dies son canviats.
+
+### Configura l'hora que pot iniciar sessió cada  usuari del departament de comptabilitat.
+
+### El mateix per el departament de logística.
