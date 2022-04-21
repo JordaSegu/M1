@@ -159,7 +159,13 @@ Ajustem el horari segons convingui en cada usuari:
 Copiem el usuari 6 vegades am un torn i 6 vegades en l'altre, i hauria de quedar aixi:
 ![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2019-17-10.png)
 
+Ara, per crear un equip, li fem click dret al "vuit" de la carpeta i anem a "Nuevo > Equipo":
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2019-25-36.png)
 
+Li donem un nom:
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2019-27-48.png)
+
+I aixi repetint el proces amb tots els equips que es tinguin que crear.
 
 ###  Creem un departament de logística on hi han 4 equips i 12 usuaris, en tres torns: primer torn a les 8:00 hores, segon torn a les 12:00 hores i tercer torn a les 16:00 hores.
 
