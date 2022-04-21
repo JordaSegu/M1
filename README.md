@@ -115,8 +115,17 @@ I, finalment, et convida si vols contribuir a millorar el SO:
 ![Contribuir Linux Mint](https://github.com/JordaSegu/M1/blob/main/Instalacio%20Linux%20Mint/Captura%20de%202022-01-28%2017-36-49.png)
 
 ## Crear unitats organitzatives (UO) en un domini Windows Server 2016
+Seleccionem el servidor d'empresa:
+![Seleccio server](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-10-18.png)
 
 ### Creem una UO per els usuaris i grups de l'empresa.
+Li fem click a aquesta icona:
+![Icona nova UO](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-11-13.png)
+
+Li donem nom a la "carpeta":
+![Donar nom UO](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-11-51.png)
+
+I repetim el mateix procés amb la carpeta de grups d'empresa.
 
 ###  Creem un departament de comptabilitat on hi han 6 equips i 12 usuaris en dos torns: un torn a les 6:00 hores i l’altre torn a les 18:00 hores.
 
