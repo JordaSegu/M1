@@ -123,6 +123,7 @@ Li fem click a aquesta icona:
 ![Icona nova UO](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-11-13.png)
 
 Li donem nom a la "carpeta":
+
 ![Donar nom UO](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-11-51.png)
 
 I repetim el mateix procés amb la carpeta de grups d'empresa.
