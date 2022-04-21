@@ -119,16 +119,33 @@ Seleccionem el servidor d'empresa:
 ![Seleccio server](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-10-18.png)
 
 ### Creem una UO per els usuaris i grups de l'empresa.
-Li fem click a aquesta icona:
+Li fem click a aquesta icona per crear la carpeta de la UO:
 ![Icona nova UO](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-11-13.png)
 
 Li donem nom a la "carpeta":
 
-![Donar nom UO](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-11-51.png)
+![Donar nom UO general](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-11-51.png)
 
 I repetim el mateix procés amb la carpeta de grups d'empresa.
 
 ###  Creem un departament de comptabilitat on hi han 6 equips i 12 usuaris en dos torns: un torn a les 6:00 hores i l’altre torn a les 18:00 hores.
+Tornem allà on tenim el servidor i fem click a la mateixa icona d'abans: 
+![Icona nova UO](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-11-13.png)
+
+Li donem nom:
+![Donar nom departament comptabilitat](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-38-32.png)
+
+Un cop entrem a la carpeta creada, fem click a aquesta icona:
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2017-42-38.png)
+
+Li posem el nom corresponent a l'usuari, contrasenya i confirmem la creacio del usuari:
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2018-46-49.png)
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2018-48-36.png)
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2018-48-55.png)
+
+I l'interior de la carpeta hauria de quedar aixi, de moment:
+![](https://github.com/JordaSegu/M1/blob/main/Crear%20UOs%20en%20un%20domini%20Windows%20Server%202016/Captura%20de%202022-04-21%2018-50-50.png)
+
 
 ###  Creem un departament de logística on hi han 4 equips i 12 usuaris, en tres torns: primer torn a les 8:00 hores, segon torn a les 12:00 hores i tercer torn a les 16:00 hores.
 
