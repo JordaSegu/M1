@@ -184,3 +184,28 @@ I aixi repetint el proces amb tots els equips que es tinguin que crear.
 ### Configura l'hora que pot iniciar sessió cada  usuari del departament de comptabilitat.
 
 ### El mateix per el departament de logística.
+
+## Activitat 9 de maig
+# 1. Executa el programa Wireshark (com a superusuari o usuari amb permisos per a capturar paquets). Cal seleccionar la tarja de xarxa amb la qual volem capturar paquets. Cal recordar que les targes amb fils comencen per enp i les targes sense fils comencen per wlp.
+
+# 2. Captura algun paquet? De quin tipus?
+![](https://github.com/JordaSegu/M1/blob/main/Activitat%209%20de%20maig/Captura%20de%202022-05-09%2016-14-04.png)
+Si. De tipus TCP, ARP, TLSv1.3, STP i MDNS.
+
+# 3. Posa HTTP a la barra de filtre . Connecta amb el navegador a una pàgina web qualsevol. Quina IP d'origen apareix? Quina IP destí? Quina MAC origen? Quina MAC destí? Quin port origen? Quin port destí?
+![](https://github.com/JordaSegu/M1/blob/main/Activitat%209%20de%20maig/Captura%20de%202022-05-09%2016-15-26.png)
+192.168.79.242 - 35.224.170.84 - HewlettP_56:48:49 (ec:b1:d7:56:48:49) - Routerbo_59:46:82 (4c:5e:0c:59:46:82) - 48498 - 80.
+
+# 4. Ara volem capturar paquets de ping. Quin filtre hem de posar? Posa'l i a continuació fes pings a ordinadors dels companys, a la porta d'enllaç, a adreces d'Internet. Anota de cada paquet capturat: adreça IP origen, IP destí, MAC origen, MAC destí, port origen, port destí.
+Hem de posar "ICMP" com a filtre. 
+![Ping company](https://github.com/JordaSegu/M1/blob/main/Activitat%209%20de%20maig/Captura%20de%202022-05-09%2016-25-27.png)
+![Ping a Google.es](https://github.com/JordaSegu/M1/blob/main/Activitat%209%20de%20maig/Captura%20de%202022-05-09%2016-26-39.png)
+
+# 5. Consulta la taula ARP del teu ordinador amb la comanda ip neighbours. Què signifiquen les entrades que veus?
+![](https://github.com/JordaSegu/M1/blob/main/Activitat%209%20de%20maig/Captura%20de%202022-05-09%2016-35-17.png)
+Un es el ordinador on he fet ping anteriorment i l'altre es el ordinador/servidor.
+
+# 6. Neteja la taula ARP amb la comanda sudo ip -s -s neighbour flush all
+
+
+
