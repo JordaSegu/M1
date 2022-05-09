@@ -206,3 +206,7 @@ Hem de posar "ICMP" com a filtre.
 Un es el ordinador on he fet ping anteriorment i l'altre es el ordinador/servidor.
 
 ### 6. Neteja la taula ARP amb la comanda sudo ip -s -s neighbour flush all
+
+### 7. Torna a consultar la taula ARP.
+
+### 8. Fes ping a ordinadors de l'aula i torna a consultar la taula ARP.
