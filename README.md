@@ -116,20 +116,20 @@ I, finalment, et convida si vols contribuir a millorar el SO:
 
 ## Instalació Ubuntu Server
 Primer de tot cal instalar un .ova al VirtualBox
-!(https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-21-30.png)
+![](https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-21-30.png)
 
 Executem la màquina virutal
-!(https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-22-04.png)
+![](https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-22-04.png)
 
 Un cop iniciada la màquina virtual, anem a la consola
-!(https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-24-13.png)
-!(https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-24-29.png)
+![](https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-24-13.png)
+![](https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-24-29.png)
 
 Executem el "sudo apt update" i el "sudo apt upgrade"
-!(https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-24-40.png)
-!(https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-24-57.png)
-!(https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-25-09.png)
-!(https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2018-28-19.png)
+![](https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-24-40.png)
+![](https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-24-57.png)
+![](https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2017-25-09.png)
+![](https://github.com/JordaSegu/M1/blob/main/Instalaci%C3%B3%20d'Ubuntu%20Server/Captura%20de%202022-03-31%2018-28-19.png)
 
 ## Crear unitats organitzatives (UO) en un domini Windows Server 2016
 Seleccionem el servidor d'empresa:
